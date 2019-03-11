@@ -1,6 +1,6 @@
 BasedOnStyle:  Google
 
-# Objc allows 100 instead of the traditional 80.
+# Objc allows 120 instead of the traditional 80.
 ColumnLimit: 120
 
 # If false, a function call’s or function definition’s parameters will either
